@@ -1,0 +1,32 @@
+#schaakbord {
+
+    width: 508px;
+    border: 10px solid #000000;
+    border-style: inset;
+    background-color: #000000;
+    
+
+}
+
+.beige {
+
+    width: 60px;
+    height: 60px;   
+    display: inline-block;
+    background-color: #dfc59c;
+    
+}
+
+.bruin {
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    background-color: #653112;
+}
+
+img {
+    display: block;
+    height: 60px;
+    width: 60px;
+
+}
